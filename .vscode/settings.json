@@ -1,0 +1,14 @@
+{
+    "editor.suggest.selectionMode": "never",
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "editor.snippetSuggestions": "none",
+    "C_Cpp.errorSquiggles": "disabled",
+    "editor.screenReaderAnnounceInlineSuggestion": false,
+    "editor.inlineSuggest.enabled": false,
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
