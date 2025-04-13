@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+// program for even
 
 int main() {
     int num;
