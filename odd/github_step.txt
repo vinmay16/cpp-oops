@@ -1,1 +1,27 @@
-step for github setup
+Steps for make repository on GitHub and How To push file on it:-
+
+Step 1:- Configure Git, Set your username and email, which will be associated with your commits
+         git config --global user.name "username"
+         git config --global user.email "your_email@example.com"
+
+Step 2:- Create a Repository on GitHub
+
+Step 3:- Initialize Git in Our Local Directory
+         Command to initialize a new Git repository
+         git init
+
+Step 4:- Add Files to the Staging Area
+         Command to add your files to the staging area
+         git add .
+
+Step 5:- Commit Your Changes
+         Commit the staged files with a descriptive message         
+         git commit -m "Message"
+
+Step 6:- Link Your Local Repository to GitHub with the help of link whhic is given on github by the time of making repository
+         git remote add origin 'Link'
+
+Step 7:- Push Your Changes to GitHub
+         git push -u origin main
+
+Step 8:- Verify on GitHub
